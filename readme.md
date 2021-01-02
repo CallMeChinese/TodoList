@@ -1,14 +1,13 @@
 # TODOLIST-template
 
-**NEVER! NEVER!! NEVER!!! EDIT THIS BRANCH!!!** If there are some errors, correct them after creating new branch. But why? Because I want to have a beautiful tree.
-
-This is the template branch, you can create any branch from it.
-
 ## Books
 
 Read books, kill time, sleep noisily ;-)
 
+Name|Author|Due|State|Remarks
+----|------|---|-----|-------
+会饮篇|柏拉图|2021-02-28|![book-state](https://badgen.net/badge/book/reading/blue)|
+
 ## Project
 
 Open-source project will take over the world. Just do it.
-
